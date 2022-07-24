@@ -1,4 +1,4 @@
-[!MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)(https://AmanRw.io)
+[!MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
