@@ -1,4 +1,4 @@
-<img align="center" alt="Coding With Me" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif">
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://AmanRw.github.io)
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -23,5 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanrw&show_icons=true&locale=en" alt="amanrw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanRw&" alt="Amanrw" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanRw&" alt="AmanRw" /></p>
