@@ -1,6 +1,6 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://AmanRw.github.io)
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/UbFo.gif">
 
@@ -8,9 +8,9 @@
   <img  src="https://komarev.com/ghpvc/?username=amanrw&label=Profile%20views&color=0e75b6&style=flat" alt="amanrw" /> 
   </p>
 
-- 🔭 I’m currently working on **None**
+- 🔭 I’m currently working on **Android Development**
 
-- 💬 Ask me about **Programing in Java , MERN**
+- 💬 Ask me about **Programing in Java**
 
 - ⚡ Fun fact **Nothing**
 
