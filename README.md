@@ -1,26 +1,35 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://AmanRw.github.io)
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+# Hello there! I'm Aman Rawat
 
-<p align="left"> 
-  <img  src="https://komarev.com/ghpvc/?username=amanrw&label=Profile%20views&color=0e75b6&style=flat" alt="amanrw" /> 
-  </p>
+## Android App Developer | Django Backend Enthusiast | Crafting Seamless Integrations
 
-- 🔭 I’m currently working on **Android Development**
+---
 
-- 💬 Ask me about **Programing in Java**
+## About Me
 
-- ⚡ Fun fact **Nothing**
+I'm a developer passionate about connecting code with compelling user experiences. I thrive on building innovative Android applications and robust Django backends, always striving for seamless integration between the two.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p><img align="center" padding="10rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanRw&show_icons=true&locale=en&layout=compact" alt="AmanRw" /></p>
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
-<p>&nbsp;<img align="center" padding="10rem" src="https://github-readme-stats.vercel.app/api?username=amanrw&show_icons=true&locale=en" alt="amanrw" /></p>
+[![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-<p><img align="center" padding="10rem" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanRw&" alt="AmanRw" /></p>
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java)](https://www.java.com)
+
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-rawat-46246123b)
+
+---
+
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRw&layout=compact&theme=vision-friendly-dark)
+
+![Aman Rawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanRw&show_icons=true&theme=vision-friendly-dark)
