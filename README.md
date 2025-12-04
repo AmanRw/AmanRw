@@ -30,6 +30,6 @@ I'm a developer passionate about connecting code with compelling user experience
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRw&layout=compact&theme=vision-friendly-dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanRw&theme=vision_friendly_dark)
 
-![Aman Rawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanRw&show_icons=true&theme=vision-friendly-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanRw&theme=vision-friendly-dark)](https://git.io/streak-stats)
